@@ -1,4 +1,3 @@
-
 def draw_stars(mylist):
     for item in mylist:
         if (type(item) == int):
